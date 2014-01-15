@@ -1,6 +1,7 @@
 pgb-helloworld-links-images-youtube
 ===================================
 
-The most basic Phonegap Build abilities example of How to make fonts big enugh to see on a phone. How to make a simple link. How to make a button work as a link. How to show an Online image in your App. Finally how to show a youtube Video in your App.
+The most basic Phonegap Build abilities for mobile App design. How to make fonts big enough to see on a phone. How to make a simple link. How to make a button work as a link. How to show an online image in your App. Finally how to show a youtube video in your App.
 
-No idea if this is the correct way to make App. I just have A skill for making things work as simply as possible.
+
+No idea if this is the correct way to make Apps. I just have a skill for making things work as simply as possible.
