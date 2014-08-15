@@ -2,17 +2,21 @@
   color: #5a5a5a;
   font-size: 11px;
   font-weight: bold;
-  padding: 14px 10px;
+  
   text-transform: uppercase;
+  
 }
 
 .nav li {
-  display: inline;
+  float:left;
+  margin:0 33 0 33 ;
 }
+/*Width: 320 x Height: 480*/
 
 .jumbotron {
-  background-image:url('http://wallpaperwiz.com/wp-content/uploads/2014/03/Apple_HD_Logo_Photo_pic_10_MX_Wallpapers_great_images.jpg');
-  height: 600px;
+  background-image:url('http://lifewallpapers.com/wp-content/uploads/2014/08/Computers-Apple-Logo-Screen-Saver-Cool-Wallpaper-1280x854.jpg');
+  height: 480px;
+  width:320;
 }
 
 .jumbotron .container {
@@ -28,18 +32,22 @@
 }
 
 .jumbotron p {
-  font-size: 20px;
+  font-size:] 20px;
   color: #fff;
 }
 
 .learn-more {
   background-color: #f7f7f7;
+   height: 480px;
+  width:320;
 }
 
 .learn-more h3 {
   font-family: 'Shift', sans-serif;
   font-size: 18px;
   font-weight: bold;
+  
+  
 }
 
 .learn-more a {
@@ -49,13 +57,18 @@
 .neighborhood-guides{
     background-color:#efefef;
     border-bottom: 1px solid #dbdbdb;
+       height: 480px;
+  width:320;
     }
     .neighborhood-guides h2{
         color:#393c3d;
         font-size:24px;
+        
         }
        .neighborhood-guides p{
         margin-bottom:13px;
         font-size:15px;
          
         }
+        
+        
