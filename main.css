@@ -1,3 +1,7 @@
+ .nav .menu{
+    height:44px;
+    } 
+
 .nav a {
   color: #5a5a5a;
   font-size: 11px;
@@ -8,6 +12,7 @@
 
 .nav li {
   display: inline;
+ 
 }
 
 .jumbotron {
@@ -50,7 +55,7 @@
 }
 
 .neighborhood-guides{
-    background-color:#efefef;
+    background-color:;
     border-bottom: 1px solid #dbdbdb;
    
     }
@@ -63,3 +68,4 @@
         font-size:15px;
          
         }
+       
